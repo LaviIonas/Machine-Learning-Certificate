@@ -1,2 +1,6 @@
-# Retrieve and Clean Data for Machine Learning Purposes
-Repository for Machine Learning concepts in which methods of retrieving and cleaning data are demonstrated.
+## Machine Learning Exercises from IBM ML Certificate
+This repository will be a documentation for concepts learned in this certificate .
+
+##Part 1: Exploratory Data Analysis
+
+# Retrieve and query data
